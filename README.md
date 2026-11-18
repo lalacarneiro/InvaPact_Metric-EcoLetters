@@ -25,7 +25,7 @@ source("run_all.R")
 `metric_scoring` has to run before `data_analysis`, because it creates the dataset used by the main figures. `run_all.R` already runs them in that order.
 
 ## Citation
-
+- Carneiro, L., Bradshaw, C., Pincheira-Donoso, D., Caetano, G. H. d. O., Cuthbert, R., Tieo, S., Wang, S., Liu, C., Arbieu, U., Pili, A., Desiderato, A., Cooke, S., Tonkin, J., South, J., Firth, J., Dallas, T., & Courchamp, F. (2026). A standardized metric for quantifying the ecological impacts of biological invasions. Ecology Letters.
 - Code and data: https://doi.org/10.6084/m9.figshare.32141293
 - Carneiro, L., Bradshaw, C., Pincheira-Donoso, D., Caetano, G. H. d. O., Cuthbert, R., Tieo, S., Wang, S., Liu, C., Arbieu, U., Pili, A., Desiderato, A., Cooke, S., Tonkin, J., South, J., Firth, J., Dallas, T., & Courchamp, F. (2026). InvaPact: a metric to quantify the ecological impacts of biological invasions. ARPHA Conference Abstracts, 9. https://doi.org/10.3897/aca.9.e202558
 
