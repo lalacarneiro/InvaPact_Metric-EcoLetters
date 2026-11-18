@@ -1,0 +1,4 @@
+dataset,n_scenarios,strict_pass_n,strict_pass_rate,strict_all,worst_median_abs_pct,worst_p95_abs_pct,worst_spearman,worst_top10_overlap,tost_pass_n,tost_pass_rate,core_n_scenarios,core_strict_pass_n,core_strict_pass_rate,core_strict_all,core_worst_median_abs_pct,core_worst_p95_abs_pct,core_worst_spearman,core_worst_top10_overlap,core_tost_pass_n,core_tost_pass_rate
+balanced_synthetic,18,15,0.8333333333333334,FALSE,5.000000000000005,10.557280900008408,0.999555061179088,1,18,1,10,10,1,TRUE,2.532056551910364,2.5320565519103804,1,1,10,1
+empirical_illustrative,18,16,0.8888888888888888,FALSE,5.000000000000006,10.557280900008413,0.9939609742201967,0.9,17,0.9444444444444444,10,10,1,TRUE,2.532056551910362,2.5320565519103817,0.9999928785073352,1,10,1
+imbalanced_synthetic,18,15,0.8333333333333334,FALSE,5.000000000000005,10.557280900008406,0.9931384123897491,1,18,1,10,10,1,TRUE,2.532056551910364,2.532056551910381,0.9995624696159454,1,10,1

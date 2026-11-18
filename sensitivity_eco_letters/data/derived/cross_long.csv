@@ -1,0 +1,49 @@
+"eco_level","T_var","S_scen","mean_IP"
+"Individual","T1 — EMM","canonical",41.7445351499552
+"Individual","T1 — EMM","alt1",41.0498799294134
+"Individual","T1 — EMM","alt2",41.4692307670951
+"Individual","T1 — EMM","D1 (cell noise mean)",41.5936917093758
+"Individual","T2 — Raw mean","canonical",41.4208673198873
+"Individual","T2 — Raw mean","alt1",40.7315981348367
+"Individual","T2 — Raw mean","alt2",41.1476975199586
+"Individual","T2 — Raw mean","D1 (cell noise mean)",41.2711934496221
+"Population","T1 — EMM","canonical",69.0674345120804
+"Population","T1 — EMM","alt1",69.8792543015505
+"Population","T1 — EMM","alt2",69.5639794202862
+"Population","T1 — EMM","D1 (cell noise mean)",69.2400105261127
+"Population","T2 — Raw mean","canonical",68.9267036646888
+"Population","T2 — Raw mean","alt1",69.7368693014065
+"Population","T2 — Raw mean","alt2",69.422236819871
+"Population","T2 — Raw mean","D1 (cell noise mean)",69.0989280402265
+"Species","T1 — EMM","canonical",77.470985172229
+"Species","T1 — EMM","alt1",77.4572765626486
+"Species","T1 — EMM","alt2",77.4599137560421
+"Species","T1 — EMM","D1 (cell noise mean)",77.5621496519174
+"Species","T2 — Raw mean","canonical",77.9607164482945
+"Species","T2 — Raw mean","alt1",77.9490105004488
+"Species","T2 — Raw mean","alt2",77.9508667650941
+"Species","T2 — Raw mean","D1 (cell noise mean)",78.0522061681873
+"Assemblage","T1 — EMM","canonical",63.5698746139715
+"Assemblage","T1 — EMM","alt1",63.8441561264111
+"Assemblage","T1 — EMM","alt2",63.7373186959825
+"Assemblage","T1 — EMM","D1 (cell noise mean)",63.6103713496422
+"Assemblage","T2 — Raw mean","canonical",63.7771729187472
+"Assemblage","T2 — Raw mean","alt1",64.0523488500118
+"Assemblage","T2 — Raw mean","alt2",63.9451630278592
+"Assemblage","T2 — Raw mean","D1 (cell noise mean)",63.8178017123259
+"Ecosystem function/service","T1 — EMM","canonical",88.9744555016101
+"Ecosystem function/service","T1 — EMM","alt1",88.9744555016101
+"Ecosystem function/service","T1 — EMM","alt2",88.9744555016101
+"Ecosystem function/service","T1 — EMM","D1 (cell noise mean)",85.767591958985
+"Ecosystem function/service","T2 — Raw mean","canonical",89.0873991526799
+"Ecosystem function/service","T2 — Raw mean","alt1",89.0873991526799
+"Ecosystem function/service","T2 — Raw mean","alt2",89.0873991526799
+"Ecosystem function/service","T2 — Raw mean","D1 (cell noise mean)",85.8764648363147
+"Abiotic environment","T1 — EMM","canonical",64.3093797983667
+"Abiotic environment","T1 — EMM","alt1",64.3093797983667
+"Abiotic environment","T1 — EMM","alt2",64.3093797983667
+"Abiotic environment","T1 — EMM","D1 (cell noise mean)",61.9915077264159
+"Abiotic environment","T2 — Raw mean","canonical",61.8691795142332
+"Abiotic environment","T2 — Raw mean","alt1",61.8691795142332
+"Abiotic environment","T2 — Raw mean","alt2",61.8691795142332
+"Abiotic environment","T2 — Raw mean","D1 (cell noise mean)",59.6392584084757

@@ -1,0 +1,21 @@
+[
+  {"imp_types": "imp_climate", "impact_type_key": "microclimate"},
+  {"imp_types": "imp_soil_sediment", "impact_type_key": "soil"},
+  {"imp_types": "imp_fire_regime", "impact_type_key": "fire"},
+  {"imp_types": "imp_nutrients_pool_fluxes", "impact_type_key": "nutrient"},
+  {"imp_types": "imp_hydrology_water_quality", "impact_type_key": "hydrology"},
+  {"imp_types": "imp_habitat_refugia", "impact_type_key": "habitat"},
+  {"imp_types": "imp_primary_production", "impact_type_key": "primaryproduction"},
+  {"imp_types": "imp_ecological_function", "impact_type_key": "lossecological"},
+  {"imp_types": "imp_food_web", "impact_type_key": "foodweb"},
+  {"imp_types": "imp_species_persistence", "impact_type_key": "speciesloss"},
+  {"imp_types": "imp_population_size", "impact_type_key": "populationsize"},
+  {"imp_types": "imp_health_phenotype", "impact_type_key": "health"},
+  {"imp_types": "imp_fitness_reproduction", "impact_type_key": "growth"},
+  {"imp_types": "imp_behaviour", "impact_type_key": "behavioural"},
+  {"imp_types": "imp_genetic_diversity", "impact_type_key": "genetic"},
+  {"imp_types": "imp_range_change", "impact_type_key": "speciesrange"},
+  {"imp_types": "imp_assemblage_structure", "impact_type_key": "communitystructure"},
+  {"imp_types": "imp_successional_patterns", "impact_type_key": "successional"},
+  {"imp_types": "imp_soundscape", "impact_type_key": "soundscape"}
+]

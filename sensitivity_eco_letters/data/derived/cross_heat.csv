@@ -1,0 +1,49 @@
+"T_var","S_scen","eco_level","mean_IP"
+"T1 — EMM","D1","Individual",41.5936917093758
+"T1 — EMM","D1","Population",69.2400105261127
+"T1 — EMM","D1","Species",77.5621496519174
+"T1 — EMM","D1","Assemblage",63.6103713496422
+"T1 — EMM","D1","Ecosystem function/service",85.767591958985
+"T1 — EMM","D1","Abiotic environment",61.9915077264159
+"T1 — EMM","alt1","Individual",41.0498799294134
+"T1 — EMM","alt1","Population",69.8792543015505
+"T1 — EMM","alt1","Species",77.4572765626486
+"T1 — EMM","alt1","Assemblage",63.8441561264111
+"T1 — EMM","alt1","Ecosystem function/service",88.9744555016101
+"T1 — EMM","alt1","Abiotic environment",64.3093797983667
+"T1 — EMM","alt2","Individual",41.4692307670951
+"T1 — EMM","alt2","Population",69.5639794202862
+"T1 — EMM","alt2","Species",77.4599137560421
+"T1 — EMM","alt2","Assemblage",63.7373186959825
+"T1 — EMM","alt2","Ecosystem function/service",88.9744555016101
+"T1 — EMM","alt2","Abiotic environment",64.3093797983667
+"T1 — EMM","canonical","Individual",41.7445351499552
+"T1 — EMM","canonical","Population",69.0674345120804
+"T1 — EMM","canonical","Species",77.470985172229
+"T1 — EMM","canonical","Assemblage",63.5698746139715
+"T1 — EMM","canonical","Ecosystem function/service",88.9744555016101
+"T1 — EMM","canonical","Abiotic environment",64.3093797983667
+"T2 — Raw mean","D1","Individual",41.2711934496221
+"T2 — Raw mean","D1","Population",69.0989280402265
+"T2 — Raw mean","D1","Species",78.0522061681873
+"T2 — Raw mean","D1","Assemblage",63.8178017123259
+"T2 — Raw mean","D1","Ecosystem function/service",85.8764648363147
+"T2 — Raw mean","D1","Abiotic environment",59.6392584084757
+"T2 — Raw mean","alt1","Individual",40.7315981348367
+"T2 — Raw mean","alt1","Population",69.7368693014065
+"T2 — Raw mean","alt1","Species",77.9490105004488
+"T2 — Raw mean","alt1","Assemblage",64.0523488500118
+"T2 — Raw mean","alt1","Ecosystem function/service",89.0873991526799
+"T2 — Raw mean","alt1","Abiotic environment",61.8691795142332
+"T2 — Raw mean","alt2","Individual",41.1476975199586
+"T2 — Raw mean","alt2","Population",69.422236819871
+"T2 — Raw mean","alt2","Species",77.9508667650941
+"T2 — Raw mean","alt2","Assemblage",63.9451630278592
+"T2 — Raw mean","alt2","Ecosystem function/service",89.0873991526799
+"T2 — Raw mean","alt2","Abiotic environment",61.8691795142332
+"T2 — Raw mean","canonical","Individual",41.4208673198873
+"T2 — Raw mean","canonical","Population",68.9267036646888
+"T2 — Raw mean","canonical","Species",77.9607164482945
+"T2 — Raw mean","canonical","Assemblage",63.7771729187472
+"T2 — Raw mean","canonical","Ecosystem function/service",89.0873991526799
+"T2 — Raw mean","canonical","Abiotic environment",61.8691795142332

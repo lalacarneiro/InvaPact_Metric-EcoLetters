@@ -1,0 +1,4 @@
+rule,value
+strict_A_plus_C_on_real_core,TRUE
+both_synthetic_contradiction_core,FALSE
+main_claim_pass,TRUE

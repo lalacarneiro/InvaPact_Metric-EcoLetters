@@ -1,0 +1,8 @@
+# Google Drive folder metadata (contains a local install path)
+desktop.ini
+
+# R session cruft
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata

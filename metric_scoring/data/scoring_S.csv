@@ -1,0 +1,79 @@
+impact_type,eeicat_raw,eco_level,eeicat_code,S_norm,lambda,theta
+imp_assemblage_structure,minimal_concern,Assemblage,MC,0,0.02,3.5
+imp_assemblage_structure,moderate,Assemblage,MO,4.301,0.02,3.5
+imp_assemblage_structure,major,Assemblage,MR,6.096,0.02,3.5
+imp_assemblage_structure,massive,Assemblage,MV,7.886,0.02,3.5
+imp_behaviour,minimal_concern,Individual,MC,0,0.02,3.5
+imp_behaviour,minor,Individual,MN,1,0.02,3.5
+imp_behaviour,moderate,Individual,MO,2.533,0.02,3.5
+imp_climate,minimal_concern,Abiotic environment,MC,0,0.02,3.5
+imp_climate,minor,Abiotic environment,MN,3.892,0.02,3.5
+imp_climate,moderate,Abiotic environment,MO,6.068,0.02,3.5
+imp_climate,major,Abiotic environment,MR,8.068,0.02,3.5
+imp_climate,massive,Abiotic environment,MV,10,0.02,3.5
+imp_ecological_function,minimal_concern,Ecosystem function/service,MC,0,0.02,3.5
+imp_ecological_function,moderate,Ecosystem function/service,MO,6.068,0.02,3.5
+imp_ecological_function,major,Ecosystem function/service,MR,8.068,0.02,3.5
+imp_ecological_function,massive,Ecosystem function/service,MV,10,0.02,3.5
+imp_fire_regime,minimal_concern,Abiotic environment,MC,0,0.02,3.5
+imp_fire_regime,minor,Abiotic environment,MN,3.892,0.02,3.5
+imp_fire_regime,moderate,Abiotic environment,MO,6.068,0.02,3.5
+imp_fire_regime,major,Abiotic environment,MR,8.068,0.02,3.5
+imp_fire_regime,massive,Abiotic environment,MV,10,0.02,3.5
+imp_fitness_reproduction,minimal_concern,Individual,MC,0,0.02,3.5
+imp_fitness_reproduction,minor,Individual,MN,1,0.02,3.5
+imp_fitness_reproduction,moderate,Individual,MO,2.533,0.02,3.5
+imp_food_web,minimal_concern,Ecosystem function/service,MC,0,0.02,3.5
+imp_food_web,moderate,Ecosystem function/service,MO,6.068,0.02,3.5
+imp_food_web,major,Ecosystem function/service,MR,8.068,0.02,3.5
+imp_food_web,massive,Ecosystem function/service,MV,10,0.02,3.5
+imp_genetic_diversity,minimal_concern,Population,MC,0,0.02,3.5
+imp_genetic_diversity,moderate,Population,MO,2.533,0.02,3.5
+imp_genetic_diversity,major,Population,MR,4.124,0.02,3.5
+imp_genetic_diversity,massive,Population,MV,5.773,0.02,3.5
+imp_habitat_refugia,minimal_concern,Ecosystem function/service,MC,0,0.02,3.5
+imp_habitat_refugia,moderate,Ecosystem function/service,MO,6.068,0.02,3.5
+imp_habitat_refugia,major,Ecosystem function/service,MR,8.068,0.02,3.5
+imp_habitat_refugia,massive,Ecosystem function/service,MV,10,0.02,3.5
+imp_health_phenotype,minimal_concern,Individual,MC,0,0.02,3.5
+imp_health_phenotype,minor,Individual,MN,1,0.02,3.5
+imp_health_phenotype,moderate,Individual,MO,2.533,0.02,3.5
+imp_hydrology_water_quality,minimal_concern,Abiotic environment,MC,0,0.02,3.5
+imp_hydrology_water_quality,minor,Abiotic environment,MN,3.892,0.02,3.5
+imp_hydrology_water_quality,moderate,Abiotic environment,MO,6.068,0.02,3.5
+imp_hydrology_water_quality,major,Abiotic environment,MR,8.068,0.02,3.5
+imp_hydrology_water_quality,massive,Abiotic environment,MV,10,0.02,3.5
+imp_nutrients_pool_fluxes,minimal_concern,Abiotic environment,MC,0,0.02,3.5
+imp_nutrients_pool_fluxes,minor,Abiotic environment,MN,3.892,0.02,3.5
+imp_nutrients_pool_fluxes,moderate,Abiotic environment,MO,6.068,0.02,3.5
+imp_nutrients_pool_fluxes,major,Abiotic environment,MR,8.068,0.02,3.5
+imp_nutrients_pool_fluxes,massive,Abiotic environment,MV,10,0.02,3.5
+imp_population_size,minimal_concern,Population,MC,0,0.02,3.5
+imp_population_size,moderate,Population,MO,2.533,0.02,3.5
+imp_population_size,major,Population,MR,4.124,0.02,3.5
+imp_population_size,massive,Population,MV,5.773,0.02,3.5
+imp_primary_production,minimal_concern,Ecosystem function/service,MC,0,0.02,3.5
+imp_primary_production,moderate,Ecosystem function/service,MO,6.068,0.02,3.5
+imp_primary_production,major,Ecosystem function/service,MR,8.068,0.02,3.5
+imp_primary_production,massive,Ecosystem function/service,MV,10,0.02,3.5
+imp_range_change,minimal_concern,Species,MC,0,0.02,3.5
+imp_range_change,minor,Species,MN,2.446,0.02,3.5
+imp_range_change,moderate,Species,MO,4.301,0.02,3.5
+imp_range_change,major,Species,MR,6.096,0.02,3.5
+imp_soil_sediment,minimal_concern,Abiotic environment,MC,0,0.02,3.5
+imp_soil_sediment,minor,Abiotic environment,MN,3.892,0.02,3.5
+imp_soil_sediment,moderate,Abiotic environment,MO,6.068,0.02,3.5
+imp_soil_sediment,major,Abiotic environment,MR,8.068,0.02,3.5
+imp_soil_sediment,massive,Abiotic environment,MV,10,0.02,3.5
+imp_soundscape,minimal_concern,Assemblage,MC,0,0.02,3.5
+imp_soundscape,moderate,Assemblage,MO,4.301,0.02,3.5
+imp_soundscape,major,Assemblage,MR,6.096,0.02,3.5
+imp_soundscape,massive,Assemblage,MV,7.886,0.02,3.5
+imp_species_persistence,minimal_concern,Species,MC,0,0.02,3.5
+imp_species_persistence,moderate,Species,MO,4.301,0.02,3.5
+imp_species_persistence,major,Species,MR,6.096,0.02,3.5
+imp_species_persistence,massive,Species,MV,7.886,0.02,3.5
+imp_successional_patterns,minimal_concern,Assemblage,MC,0,0.02,3.5
+imp_successional_patterns,moderate,Assemblage,MO,4.301,0.02,3.5
+imp_successional_patterns,major,Assemblage,MR,6.096,0.02,3.5
+imp_successional_patterns,massive,Assemblage,MV,7.886,0.02,3.5

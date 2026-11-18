@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "InvaPact metric: code and data"
+message: "If you use this code or data, please cite it using the DOI below."
+type: software
+authors:
+  - family-names: "Carneiro"
+    given-names: "Lais"
+version: 1.0.0
+date-released: 2026-04-30
+license: MIT
+doi: 10.6084/m9.figshare.32141293
+identifiers:
+  - type: doi
+    value: 10.6084/m9.figshare.32141293
+    description: "Code and data (figshare)"
+  - type: doi
+    value: 10.3897/aca.9.e202558
+    description: "InvaPact: a metric to quantify the ecological impacts of biological invasions. ARPHA Conference Abstracts 9."
+keywords:
+  - invasion ecology
+  - impact assessment
+  - ecological impacts

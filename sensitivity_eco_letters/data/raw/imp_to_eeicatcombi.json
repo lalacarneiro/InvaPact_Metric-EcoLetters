@@ -1,0 +1,22 @@
+[
+{"imp_types": "imp_fitness_reproduction", "EEICAT_possibility": "[0,1,2.533]"},
+{"imp_types": "imp_behaviour", "EEICAT_possibility": "[0,1,2.533]"},
+{"imp_types": "imp_health_phenotype", "EEICAT_possibility": "[0,1,2.533]"},
+{"imp_types": "imp_population_size", "EEICAT_possibility": "[0,2.533,4.124,5.773]"},
+{"imp_types": "imp_genetic_diversity", "EEICAT_possibility":"[0,2.533,4.124,5.773]"},
+{"imp_types": "imp_range_change", "EEICAT_possibility": "[0,2.446,4.301,6.096]"},
+{"imp_types": "imp_species_persistence", "EEICAT_possibility": "[0,4.301,6.096,7.886]"},
+{"imp_types": "imp_assemblage_structure", "EEICAT_possibility": "[0,4.301,6.096,7.886]"},
+{"imp_types": "imp_successional_patterns", "EEICAT_possibility": "[0,4.301,6.096,7.886]"},
+{"imp_types": "imp_soundscape", "EEICAT_possibility": "[0,4.301,6.096,7.886]"},
+{"imp_types": "imp_primary_production", "EEICAT_possibility": "[0,6.068,8.068,10]"},
+{"imp_types": "imp_ecological_function", "EEICAT_possibility": "[0,6.068,8.068,10]"},
+{"imp_types": "imp_food_web", "EEICAT_possibility": "[0,6.068,8.068,10]"},
+{"imp_types": "imp_habitat_refugia", "EEICAT_possibility": "[0,6.068,8.068,10]"},
+{"imp_types": "imp_climate", "EEICAT_possibility": "[0,3.892,6.068,8.068,10]"},
+{"imp_types": "imp_soil_sediment", "EEICAT_possibility": "[0,3.892,6.068,8.068,10]"},
+{"imp_types": "imp_fire_regime", "EEICAT_possibility": "[0,3.892,6.068,8.068,10]"},
+{"imp_types": "imp_nutrients_pool_fluxes", "EEICAT_possibility": "[0,3.892,6.068,8.068,10]"},
+{"imp_types": "imp_hydrology_water_quality", "EEICAT_possibility": "[0,3.892,6.068,8.068,10]"}
+]
+  
